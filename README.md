@@ -70,4 +70,4 @@ Bu Sözleşmenin herhangi bir hükmünün geçersiz, yasa dışı veya uygulanam
 ## 10. Yürürlük Tarihi
 
 Bu Kullanım Şartları, 17 Ocak 2026 tarihinde yürürlüğe girmiştir.
-```
+
